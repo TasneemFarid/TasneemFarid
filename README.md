@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **My silly side can blow your mind! 🤣🎉**
 
-- 💬 Ask me about **HTML5 |CSS3 |Tailwind CSS |Bootstrap(4/5) |Javascript |jQuery |PHP |Laravel**
+- 💬 Ask me about **HTML5 | CSS3 | Tailwind CSS | Bootstrap(4/5) | Javascript | jQuery | PHP | Laravel**
 
 <br>
 
