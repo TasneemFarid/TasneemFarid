@@ -19,12 +19,24 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/tasneem_farid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tasneem_farid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tasneemfarid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tasneemfarid" height="30" width="40" /></a>
-<a href="https://fb.com/tasneemfarid.webdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tasneemfarid.webdev" height="30" width="40" /></a>
-<a href="https://instagram.com/tas_neem.farid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tas_neem.farid" height="30" width="40" /></a>
-<a href="https://www.behance.net/tasneemfarid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tasneemfarid" height="30" width="40" /></a>
+<a href="https://instagram.com/tas_neem.farid">
+  <img align="left" alt="Tasneem's Instagram" height="40" width="40" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://codepen.io/tasneem_farid">
+  <img align="left" alt="Tasneem's Codepen" height="40" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" />
+</a>
+<a href="https://fb.com/tasneemfarid.webdev">
+  <img align="left" alt="Tasneem's Facebook" height="40" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
+</a>
+<a href="https://www.linkedin.com/in/tasneemfarid/">
+  <img align="left" alt="Tasneem's LinkedIN" height="40" width="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.behance.net/tasneemfarid">
+  <img align="left" alt="Tasneem's Behance" height="40" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" />
+</a>
 </p>
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
