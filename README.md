@@ -29,19 +29,19 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-<code><img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
-<code><img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
-<code><img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
-<code><img height="20" width="20" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
-<code><img height="20" width="20" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-<code><img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
-<code><img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
-<code><img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></code>
-<code><img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="20" width="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<code><img height="20" width="20" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
 </p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tasneemfarid&show_icons=true&locale=en&layout=compact" alt="tasneemfarid" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tasneemfarid&show_icons=true&locale=en" alt="tasneemfarid" /></p>
