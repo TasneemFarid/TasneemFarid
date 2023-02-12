@@ -9,9 +9,11 @@
 
 - 📫 How to reach me **tasneemfarid.webdev@gmail.com**
 
-- 🌱 I’m currently learning **Mern Stack Development**
+<!-- - 👩‍💻 Currently working on **Mern Stack Development** -->
 
-- ✨ My Hobbies: Cooking, baking, eating and enhancing culinary skills!! 🍳🍩🧁**
+- 🌱 Looking forward to learning **Mern Stack Development**
+
+- ✨ My Hobbies: **Cooking, baking, eating and enhancing culinary skills!! 🍳🍩🧁**
 
 - ⚡ Fun fact **My silly side can blow your mind! 🤣🎉**
 
