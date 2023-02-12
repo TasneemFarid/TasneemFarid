@@ -13,11 +13,13 @@
 
 - 🌱 Looking forward to learning **Mern Stack Development**
 
-- ✨ My Hobbies: **Cooking, baking, eating and enhancing culinary skills!! 🍳🍩🧁**
+- ✨ My Hobbies: **Cooking, baking & enhancing culinary skills! 🍳🍩🧁**
+
+- 💗 Love: **Food!! 🙈**
 
 - ⚡ Fun fact **My silly side can blow your mind! 🤣🎉**
 
-- 💬 Ask me about **HTML5 | CSS3 | Tailwind CSS | Bootstrap(4/5) | Javascript | jQuery | PHP | Laravel**
+- 💬 Ask me about **HTML5 | CSS3 | Tailwind CSS | Bootstrap(4/5) | Javascript | jQuery | Ajax | PHP | Laravel | MySQL**
 
 <br>
 
