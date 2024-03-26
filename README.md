@@ -1,7 +1,7 @@
 <!-- <p align="center"><img alt="Coding" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"></p> -->
 <p align="center"><img alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <h1 align="center">Hi 👋, I'm TASNEEM</h1>
-<h3 align="center">A Full Stack PHP Laravel Developer from Bangladesh!</h3>
+<h3 align="center">A Frontend Developer from Bangladesh!</h3>
 
 
 <br>
@@ -11,7 +11,7 @@
 
 <!-- - 👩‍💻 Currently working on **Mern Stack Development** -->
 
-- 🌱 Looking forward to learning **Mern Stack Development**
+- 🌱 Currently learning **Mern Stack Development**
 
 - ✨ My Hobbies: **Cooking, baking & enhancing culinary skills! 🍳🍩🧁**
 
@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **My silly side can blow your mind! 🤣🎉**
 
-- 💬 Ask me about **HTML5 | CSS3 | Tailwind CSS | Bootstrap(4/5) | Javascript | jQuery | Ajax | PHP | Laravel | MySQL**
+- 💬 Ask me about **HTML5 | CSS3 | React | Nextjs | Tailwind CSS | Bootstrap(4/5) | SAAS | Javascript | jQuery**
 
 <br>
 
