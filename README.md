@@ -9,17 +9,17 @@
 
 - 📫 How to reach me **tasneemfarid.webdev@gmail.com**
 
-<!-- - 👩‍💻 Currently working on **Mern Stack Development** -->
+- 🌱 Currently learning **Angular JS**
 
-- 🌱 Currently learning **Mern Stack Development**
+- 👩‍💻 Currently working on **https://eshop.dapplesoft.com - An Accounting Software using Angular JS**
 
 - ✨ My Hobbies: **Cooking, baking & enhancing culinary skills! 🍳🍩🧁**
 
-- 💗 Love: **Food!! 🙈**
+- 💗 Love: **Family & Food!! 🙈**
 
 - ⚡ Fun fact **My silly side can blow your mind! 🤣🎉**
 
-- 💬 Ask me about **HTML5 | CSS3 | React | Nextjs | Tailwind CSS | Bootstrap(4/5) | SAAS | Javascript | jQuery**
+- 💬 Ask me about **HTML5 | CSS3 | React JS | Angular JS | Tailwind CSS | Flowbite | Bootstrap(4/5) | SCSS | Figma | Github | Tortoise Git | API Integration**
 
 <br>
 
