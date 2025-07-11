@@ -7,8 +7,6 @@
 <br>
 <br>
 
-- 📫 How to reach me **tasneemfarid.webdev@gmail.com**
-
 - 🌱 Currently learning **MERN Stack Development**
 
 - 💗 Love: **Family!!**
@@ -20,7 +18,9 @@
 - ✍ Favorite Quote: **"Wisdom is saying the right thing, in a right way and at a right time."**
 
 - 💬 Ask me about **HTML5 | CSS3 | React JS | Next JS | Angular JS | Tailwind CSS | Flowbite | Bootstrap(4/5) | SCSS | Figma | Github | Tortoise Git | API Integration**
-
+  
+- 📫 How to reach me **tasneemfarid.webdev@gmail.com**
+  
 <br>
 
 <h3 align="left">Connect with me:</h3>
