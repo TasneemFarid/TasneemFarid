@@ -9,9 +9,7 @@
 
 - 📫 How to reach me **tasneemfarid.webdev@gmail.com**
 
-- 🌱 Currently learning **Angular JS**
-
-- 👩‍💻 Currently working on **https://eshop.dapplesoft.com - An Accounting Software using Angular JS**
+- 🌱 Currently learning **MERN Stack Development**
 
 - 💗 Love: **Family!!**
 
